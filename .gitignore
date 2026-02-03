@@ -1,0 +1,6 @@
+# Ignore ALL env files everywhere
+*.env
+.env
+
+# Node modules in both client + server
+node_modules/
